@@ -10,7 +10,9 @@ regenerate: true
 ## wiki items
 
 * [[mathjax-latex]]
-
+* [[tools]]
+* [[새로운 페이지]]
+* 
 ---
 
 ## blog posts
@@ -27,4 +29,3 @@ regenerate: true
 {% endfor %}
     </ul>
 </div>
-
