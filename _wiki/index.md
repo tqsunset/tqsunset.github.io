@@ -11,7 +11,6 @@ regenerate: true
 
 * [[mathjax-latex]]
 * [[tools]]
-* [[새로운 페이지]]
 * 
 ---
 
