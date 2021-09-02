@@ -11,7 +11,6 @@ regenerate: true
 
 * [[mathjax-latex]]
 * [[tools]]
-* 
 ---
 
 ## blog posts
