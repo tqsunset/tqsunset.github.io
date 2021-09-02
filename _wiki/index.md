@@ -11,6 +11,10 @@ regenerate: true
 
 * [[mathjax-latex]]
 * [[tools]]
+	* [[git]]
+		* [[gitignore]]
+	* [[UNIX]] 
+* [[wekek]]
 ---
 
 ## blog posts

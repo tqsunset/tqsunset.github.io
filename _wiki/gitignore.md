@@ -1,3 +1,18 @@
+---
+layout  : wiki
+title   : gitignore
+summary : 
+date    : 2021-09-02 22:47:05 +0900
+updated : 2021-09-02 22:53:35 +0900
+tags    : git
+toc     : true
+public  : true
+parent  : [[git]] 
+latex   : false
+---
+* TOC
+{:toc}
+
 ## .gitignore 
 프로젝트 내  git으로 관리하지 않을 파일들의 리스트이자 설정 파일.
 
