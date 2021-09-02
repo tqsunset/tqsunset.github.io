@@ -14,7 +14,8 @@ regenerate: true
 	* [[git]]
 		* [[gitignore]]
 	* [[UNIX]] 
-* [[wekek]]
+		* [[ParameterExpension]]
+		* 
 ---
 
 ## blog posts
