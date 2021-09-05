@@ -3,8 +3,8 @@ layout  : wiki
 title   : Parameter Expansion(매개변수 확장)
 summary : 
 date    : 2021-09-02 23:43:53 +0900
-updated : 2021-09-03 00:36:27 +0900
-tags    : bash, shell, unix 
+updated : 2021-09-03 02:09:17 +0900
+tags    : bash shell unix 
 toc     : true
 public  : true
 parent  : [[UNIX]]
@@ -13,11 +13,9 @@ latex   : false
 * TOC
 {:toc}
 
-# 
-
 ## 매개변수 확장이란
 
-어떤 변수 foo=cde가 있다고 하자. 'abcde' 스트링을 만들기 위해 foo를다음과 같이 사용할 수 있다.
+어떤 변수 `foo=cde`가 있다고 하자. 'abcde' 스트링을 만들기 위해 foo를 다음과 같이 사용할 수 있다.
 ```
 $ foo=cde
 
@@ -49,3 +47,6 @@ $ echo ${#foo}
 
 ## Substring removal 
 
+## 참고
+- https://mug896.github.io/bash-shell/exp_and_sub/parameter_expansion.html
+- https://linuxhint.com/bash_parameter_expansion/
